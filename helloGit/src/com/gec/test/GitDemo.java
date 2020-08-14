@@ -1,12 +1,9 @@
 package com.gec.test;
 
 public class GitDemo {
-    public void add(){
-        System.out.println("add……");
+    public void lisi(){
+        System.out.println("lisi……");
     }
 
-    public void reduce(){
-        System.out.println("reduce……");
-    }
 
 }
