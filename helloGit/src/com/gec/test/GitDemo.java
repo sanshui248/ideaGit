@@ -1,8 +1,12 @@
 package com.gec.test;
 
 public class GitDemo {
-    public void zhangsan(){
-        System.out.println("我是张三……");
+    public void add(){
+        System.out.println("add……");
+    }
+
+    public void reduce(){
+        System.out.println("reduce……");
     }
 
 }
